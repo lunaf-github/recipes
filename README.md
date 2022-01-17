@@ -1,3 +1,2 @@
 # recipes
-Basic Recipe Website
-Preview: https://lunaf-github.github.io/recipes/
+Basic Recipe Website. Click here for preview: https://lunaf-github.github.io/recipes/
